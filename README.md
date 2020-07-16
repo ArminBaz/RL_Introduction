@@ -8,7 +8,8 @@ So far, I have already implemented a DeepQ Agent as part of my initiation into [
 
 However, because RL is a particular area of interest for me, I thought I might as well build myself from the ground up.
 <br/>
-<br/>
+
+
 I have two main goals with this repo:
  1. I am hoping that after completing this introduction I will be proficient enough to read state of the art research and hopefully contribute.
  2. I want to document my learning process and dumb things down for myself as I learn. Hopefully others can find this useful too.
@@ -17,7 +18,7 @@ I have two main goals with this repo:
 ## Requirements:
 Two things are needed to follow along with the course:
  1. The Introduction to Reinforcement Learning [textbook](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) by Richard Sutton and Andrew Barto.
- 2. David Silver's [RL lectures](https://www.youtube.com/watch?v=2pWv7GOvuf0) at UCL
+ 2. David Silver's [RL lectures](https://www.davidsilver.uk/teaching/) at UCL
 
 ## Progress Checker:
 - [ ] Introduction to RL problems & OpenAI Gym
