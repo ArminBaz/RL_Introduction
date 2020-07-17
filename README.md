@@ -21,7 +21,7 @@ Two things are needed to follow along with the course:
  2. David Silver's [RL lectures](https://www.davidsilver.uk/teaching/) at UCL
 
 ## Progress Checker:
-- [ ] Introduction to RL problems & OpenAI Gym
+- [x] Introduction to RL problems & OpenAI Gym
 - [ ] MDPs and Bellman Equations
 - [ ] Dynamic Programming: Model-Based RL, Policy Iteration and Value Iteration
 - [ ] Monte Carlo Model-Free Prediction & Control
