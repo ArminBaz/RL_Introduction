@@ -22,7 +22,7 @@ Two things are needed to follow along with the course:
 
 ## Progress Checker:
 - [x] Introduction to RL problems & OpenAI Gym
-- [ ] MDPs and Bellman Equations
+- [x] MDPs and Bellman Equations
 - [ ] Dynamic Programming: Model-Based RL, Policy Iteration and Value Iteration
 - [ ] Monte Carlo Model-Free Prediction & Control
 - [ ] Temporal Difference Model-Free Prediction & Control
