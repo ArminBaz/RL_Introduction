@@ -4,7 +4,7 @@
 This is a repository I made so I can have somewhere to store my progress as I follow along with [Denny Britz's RL Repo](https://github.com/dennybritz/reinforcement-learning)
 <br/>
 
-So far, I have already implemented a DeepQ Agent as part of my initiation into [Prof. Tao Gao's Lab](http://www.stat.ucla.edu/~taogao/).
+So far, I have already implemented a DeepQ Agent, and have minimal experience with multi agent path finding and solving markov decision processes' from my intro to ai class.
 
 However, because RL is a particular area of interest for me, I thought I might as well build myself from the ground up.
 <br/>
